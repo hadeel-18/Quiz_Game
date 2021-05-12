@@ -1,0 +1,20 @@
+is the unit of exuction within a process?  A-program counter B-thread C-Heap D-stack
+B
+is a program in execution?  A-process B-thread C-register D-data
+A
+one of these consider as a benefit of threads?  A-Economy B-Resource sharing C-all the above D-scalability
+C
+one of these not consider as a benefit of threads?  A-Economy B-Resource private C-Responsiveness D-scalability
+B
+Multiple tasks within an application can be implemented by separate threads for examples?  A-Update display B-Fetch data C-spell checking D-all the above
+D
+A single_threaded process can run on only one processor, regardless how many are available?  A-Economy B-Resource sharing C-Responsiveness D-scalability
+D
+Threading challenges include?  A-balance B-data aplitting C-data dependency D-testing and debugging
+A
+Run concurrent activities (tasks) as part of the .... process?  A-same B-perivious C-different D-close
+A
+The data accessed and manipulated by the tasks must be divided to run on separate cored?  A-balance B-Data splitting C-data dependency D-testing
+B
+threads within a process .... , but each its own stack and registers?  A-code B-data C-heap D-all the above
+D
